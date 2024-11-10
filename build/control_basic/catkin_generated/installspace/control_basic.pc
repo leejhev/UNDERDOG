@@ -1,0 +1,8 @@
+prefix=/home/a/newbie_ws/install
+
+Name: control_basic
+Description: Description of control_basic
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

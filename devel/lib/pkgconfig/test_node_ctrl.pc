@@ -1,0 +1,8 @@
+prefix=/home/a/newbie_ws/devel
+
+Name: test_node_ctrl
+Description: Description of test_node_ctrl
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

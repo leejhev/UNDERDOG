@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/main.dir/src/main.cpp.o  -o /home/a/newbie_ws/devel/lib/control_basic/main 
